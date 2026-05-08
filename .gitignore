@@ -1,0 +1,13 @@
+venv/
+MicroLens_1M_x1.zip
+parquet.py
+backup_before_pull
+backup_before_pull/
+Data/
+outputs/
+*.pt
+*.pth
+*.npy
+*.csv
+*.docx
+.ipynb_checkpoints/
